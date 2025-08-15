@@ -1,7 +1,9 @@
 # Data Structure and Algorithm Visualization Project
 
-Project report:
+Project report: [Project_Report.pdf](https://github.com/alvg2/datastructureproject/blob/main/Project_Report.pdf)
+- to open enter the following twice: v23GhQkp#cBf!@P!
 
-Project printout:
+Project printout:[Personal Website Link](
+- to open enter the following twice: 
 
 For contact information visit my personal website: [Personal Website Link](https://alvg2.github.io/personal-website/)
