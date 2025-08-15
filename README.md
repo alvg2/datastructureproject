@@ -1,10 +1,6 @@
 # Data Structure and Algorithm Visualization Project
 
-Project report: 
-
-<body>
-
-    <a href="#" onclick="downloadPdf(event)" download="My_Project_Report.pdf">Download Project Report PDF (Link)</a>
+Project report: <a href="#" onclick="downloadPdf(event)" download="My_Project_Report.pdf">Download Project Report PDF (Link)</a>
 
     <script>
         function downloadPdf(event) {
@@ -34,7 +30,6 @@ Project report:
             document.body.removeChild(link);
         }
     </script>
-</body>
 
 
 
