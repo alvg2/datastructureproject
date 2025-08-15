@@ -2,6 +2,8 @@
 
 Project report: <a href="#" onclick="downloadPdf(event)" download="My_Project_Report.pdf">Download Project Report PDF (Link)</a>
 
+<body>
+
     <script>
         function downloadPdf(event) {
             // Prevent the default link behavior for the pdf (force downloading, prevent opening)
@@ -30,7 +32,7 @@ Project report: <a href="#" onclick="downloadPdf(event)" download="My_Project_Re
             document.body.removeChild(link);
         }
     </script>
-
+</body>
 
 
 
