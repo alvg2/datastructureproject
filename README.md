@@ -1,38 +1,23 @@
 # Data Structure and Algorithm Visualization Project
 
-Project report: <a href="https://github.com/alvg2/datastructureproject/blob/main/pdfs/download_pdf.html" target="_blank">View My PDF</a>
-
-<a href="./pdfs/Project_Report.pdf" download="My_Document.pdf">Download My PDF</a>
-
-
-- to open enter the following twice: v23GhQkp#cBf!@P!
-
-Project printout:[Personal Website Link](
-- to open enter the following twice: 
-
-For contact information visit my personal website: [Personal Website Link](https://alvg2.github.io/personal-website/)
-
-
+Project report: 
 
 <body>
 
-    <a href="#" onclick="downloadPdf(event)" download="My_Project_Report.pdf">Download Project Report (Link)</a>
+    <a href="#" onclick="downloadPdf(event)" download="My_Project_Report.pdf">Download Project Report PDF (Link)</a>
 
     <script>
         function downloadPdf(event) {
-            // Prevent the default link behavior if it's an anchor tag
+            // Prevent the default link behavior for the pdf (force downloading, prevent opening)
             if (event) {
                 event.preventDefault();
             }
 
-            // Make sure this path is correct relative to THIS HTML file
-            // If download_pdf.html is in the root, and pdfs/ is a folder in the root:
+            // File path
             const pdfUrl = './pdfs/Project_Report.pdf'; 
 
-            // If your PDF is directly in the same folder as this HTML file:
-            // const pdfUrl = 'Project_Report.pdf';
-
-            const suggestedFileName = 'My_Project_Report.pdf'; // Desired filename for download
+            // Desired filename for download
+            const suggestedFileName = 'My_Project_Report.pdf'; 
 
             // Create a temporary anchor element
             const link = document.createElement('a');
@@ -49,5 +34,18 @@ For contact information visit my personal website: [Personal Website Link](https
             document.body.removeChild(link);
         }
     </script>
-
 </body>
+
+
+
+
+- to open enter the following twice: v23GhQkp#cBf!@P!
+
+Project printout:[Personal Website Link](
+- to open enter the following twice: 
+
+For contact information visit my personal website: [Personal Website Link](https://alvg2.github.io/personal-website/)
+
+
+
+
