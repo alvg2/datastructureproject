@@ -16,12 +16,6 @@ For contact information visit my personal website: [Personal Website Link](https
 
 <body>
 
-    <h1>PDF Download Example</h1>
-
-    <button onclick="downloadPdf()">Download Project Report (Button)</button>
-
-    <br><br>
-
     <a href="#" onclick="downloadPdf(event)" download="My_Project_Report.pdf">Download Project Report (Link)</a>
 
     <script>
