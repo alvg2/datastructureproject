@@ -2,7 +2,7 @@
 
 Project report: <a href="https://github.com/alvg2/datastructureproject/blob/main/Project_Report.pdf" target="_blank">View My PDF</a>
 
-<a href="../Project_Report.pdf" download="My_Document.pdf">Download My PDF</a>
+<a href="./Project_Report.pdf" download="My_Document.pdf">Download My PDF</a>
 
 
 - to open enter the following twice: v23GhQkp#cBf!@P!
