@@ -4,4 +4,4 @@ Project report:
 
 Project printout:
 
-Contact me thru my personal website: [Personal Website Link](https://alvg2.github.io/personal-website/)
+For contact information visit my personal website: [Personal Website Link](https://alvg2.github.io/personal-website/)
