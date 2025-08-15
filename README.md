@@ -1,6 +1,6 @@
 # Data Structure and Algorithm Visualization Project
 
-Project report: [Project_Report.pdf](https://github.com/alvg2/datastructureproject/blob/main/Project_Report.pdf)
+Project report: <a href="https://github.com/alvg2/datastructureproject/blob/main/Project_Report.pdf" target="_blank">View My PDF</a>
 - to open enter the following twice: v23GhQkp#cBf!@P!
 
 Project printout:[Personal Website Link](
